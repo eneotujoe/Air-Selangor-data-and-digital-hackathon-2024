@@ -1,0 +1,72 @@
+[
+ {
+   "id": 1,
+   "Serial Number": "AIS17BA0013XXX",
+   "Region": "SABAK BERNAM",
+   "Tested Date": "15/11/2022",
+   "Result": "PASS"
+ },
+ {
+   "id": 2,
+   "Serial Number": "AIS17BA0025XXX",
+   "Region": "SABAK BERNAM",
+   "Tested Date": "15/11/2022",
+   "Result": "FAIL"
+ },
+ {
+   "id": 3,
+   "Serial Number": "AIS17PA0052XXX",
+   "Region": "SEPANG",
+   "Tested Date": "17/11/2022",
+   "Result": "FAIL"
+ },
+ {
+   "id": 4,
+   "Serial Number": "AIS17PB0037XXX",
+   "Region": "SEPANG",
+   "Tested Date": "17/11/2022",
+   "Result": "PASS"
+ },
+ {
+   "id": 5,
+   "Serial Number": "AIS17BA0049XXX",
+   "Region": "HULU LANGAT",
+   "Tested Date": "12/29/22",
+   "Result": "FAIL"
+ },
+ {
+   "id": 6,
+   "Serial Number": "AIS17PA0035XXX",
+   "Region": "HULU LANGAT",
+   "Tested Date": "02/12/2022",
+   "Result": "PASS"
+ },
+ {
+   "id": 7,
+   "Serial Number": "AIS18PA0407XXX",
+   "Region": "KUALA LUMPUR",
+   "Tested Date": "11/01/2023",
+   "Result": "FAIL"
+ },
+ {
+   "id": 8,
+   "Serial Number": "AIS18PA0415XXX",
+   "Region": "KUALA LUMPUR",
+   "Tested Date": "11/01/2023",
+   "Result": "PASS"
+ },
+ {
+   "id": 9,
+   "Serial Number": "AIS20PA0372XXX",
+   "Region": "HULU SELANGOR",
+   "Tested Date": "17/01/2023",
+   "Result": "FAIL"
+ },
+ {
+   "id": 10,
+   "Serial Number": "AIS20PA0372XXX",
+   "Region": "HULU SELANGOR",
+   "Tested Date": "17/01/2023",
+   "Result": "PASS"
+ }
+]

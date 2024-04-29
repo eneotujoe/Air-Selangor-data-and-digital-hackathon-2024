@@ -1,0 +1,201 @@
+model,pk,fields/serial_number,fields/region,fields/size,fields/type,fields/manufacturer,fields/model,fields/year_manufactured,fields/purchase_date,fields/age,fields/mileage,fields/meter_warranty
+inventory.meter,1,AIS17BA00XXXXX,Petaling,15,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 15mm,2017-12-18,2024-01-01,6.526027397,41417,3
+inventory.meter,2,AIS21CA00XXXXX,Gombak,20,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 20mm,2022-04-29,2024-01-02,1.849315068,91040,3
+inventory.meter,3,AIS23PD00XXXXX,Gombak,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2023-03-14,2024-01-03,0.975342466,20505,3
+inventory.meter,4,RSYA0501XXXXX,Hulu Langat,15,Mechanical Meter - Brass Body & Piston Volumetric Type,Ningbo Water Meter,LXH 15B 15mm,2017-12-13,2024-01-04,10.53150685,5508,3
+inventory.meter,5,AIS22PD02XXXXX,Gombak,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2022-08-12,2024-01-05,1.561643836,10156,3
+inventory.meter,6,AIS17DA00XXXXX,Petaling,25,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 25mm,2017-12-20,2024-01-06,6.556164384,5015,3
+inventory.meter,7,AIS21CA00XXXXX,Gombak,20,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 20mm,2022-02-15,2024-01-07,2.049315068,19635,3
+inventory.meter,8,PUAS041015XXXXX,Kuala Lumpur,150,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,"HELIX METER 6"" METER",2017-12-15,2024-01-08,18.78630137,89084,3
+inventory.meter,9,AIS17PA03XXXXX,Gombak,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2018-04-10,2024-01-09,5.904109589,18333,3
+inventory.meter,10,AIS23PD03XXXXX,Hulu Langat,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2024-02-24,2024-01-10,0.024657534,30714,3
+inventory.meter,11,AIS22PD00XXXXX,Klang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2022-04-25,2024-01-11,1.860273973,3466,3
+inventory.meter,12,AIS20FA00XXXXX,Kuala Lumpur,50,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 4000 50mm,2020-05-05,2024-01-12,3.832876712,50983,3
+inventory.meter,13,AIS21PD00XXXXX,Hulu Selangor,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2021-10-22,2024-01-13,2.367123288,32233,3
+inventory.meter,14,AIS20JA00XXXXX,Petaling,150,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,"HELIX 4000 6"" METER ( 150 MM )",2020-09-14,2024-01-14,3.471232877,33366,3
+inventory.meter,15,AIS23PD00XXXXX,Gombak,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2023-07-17,2024-01-15,0.632876712,9126,3
+inventory.meter,16,AIS17HA00XXXXX,Petaling,100,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 100mm,2017-12-15,2024-01-16,6.536986301,41918,3
+inventory.meter,17,AIS20CA00XXXXX,Sepang,20,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 20mm,2022-06-09,2024-01-17,1.736986301,20044,3
+inventory.meter,18,92182XXXXX,Sepang,100,Mechanical Meter - Cast Iron & Piston Volumetric Type,George Kent Malaysia,"MASTER METER 2000 4"" METER",2017-12-06,2024-01-18,22.23287671,32930,3
+inventory.meter,19,SYA13P02XXXXX,Petaling,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Delta Perdana Sdn Bhd,DPM-15P 15mm,2017-12-14,2024-01-19,10.41369863,44566,3
+inventory.meter,20,AIS21PD00XXXXX,Hulu Langat,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2021-10-27,2024-01-20,2.353424658,4446,3
+inventory.meter,21,AIS23PE01XXXXX,Gombak,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,VSD Automation Sdn. Bhd.,LXHG-15/S,2023-10-30,2024-01-21,0.345205479,27311,3
+inventory.meter,22,AIS20JA00XXXXX,Klang,150,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,"HELIX 4000 6"" METER ( 150 MM )",2020-11-18,2024-01-22,3.293150685,93002,3
+inventory.meter,23,AIS22HA00XXXXX,Sepang,100,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 100mm,2022-03-28,2024-01-23,1.936986301,61069,3
+inventory.meter,24,SYA15J00XXXXX,Gombak,150,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NINGBO (X 10),2017-12-21,2024-01-24,7.969863014,71363,3
+inventory.meter,25,AIS20PA01XXXXX,Kuala Langat,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2020-07-25,2024-01-25,3.610958904,30066,3
+inventory.meter,26,AIS20PA02XXXXX,Petaling,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2021-01-19,2024-01-26,3.123287671,30171,3
+inventory.meter,27,AIS23PD02XXXXX,Gombak,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2023-07-31,2024-01-27,0.594520548,31619,3
+inventory.meter,28,AIS22PD00XXXXX,Sepang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2022-05-10,2024-01-28,1.819178082,11099,3
+inventory.meter,29,AIS20GA00XXXXX,Petaling,80,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 80mm,2021-05-19,2024-01-29,2.794520548,67780,3
+inventory.meter,30,AIS20FA00XXXXX,Kuala Lumpur,50,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 4000 50mm,2020-03-14,2024-01-30,3.975342466,75963,3
+inventory.meter,31,AIS22PD03XXXXX,Hulu Langat,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2023-02-07,2024-01-31,1.071232877,16793,3
+inventory.meter,32,AIS17FA00XXXXX,Kuala Langat,50,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 4000 50mm,2018-04-04,2024-02-01,5.920547945,28393,3
+inventory.meter,33,AIS19PA01XXXXX,Petaling,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2019-05-16,2024-02-02,4.805479452,9668,3
+inventory.meter,34,AIS18HA00XXXXX,Kuala Lumpur,100,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 100mm,2019-08-22,2024-02-03,4.536986301,76556,3
+inventory.meter,35,AIS21PD00XXXXX,Kuala Selangor,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2021-12-06,2024-02-04,2.243835616,31496,3
+inventory.meter,36,SYA11H00XXXXX,Kuala Langat,100,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO 100 MM METER,2017-12-05,2024-02-05,11.24931507,88882,3
+inventory.meter,37,AIS20GA00XXXXX,Petaling,80,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 80mm,2020-06-15,2024-02-06,3.720547945,37366,3
+inventory.meter,38,AIS20GA00XXXXX,Petaling,80,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 80mm,2020-12-03,2024-02-07,3.252054795,82381,3
+inventory.meter,39,SYA14J00XXXXX,Sabak Bernam,150,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NINGBO (X 10),2017-12-02,2024-02-08,8.775342466,75114,3
+inventory.meter,40,AIS22FA00XXXXX,Kuala Lumpur,50,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 4000 50mm,2023-07-15,2024-02-09,0.638356164,85208,3
+inventory.meter,41,AIS20DA00XXXXX,Kuala Lumpur,25,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 25mm,2022-06-16,2024-02-10,1.717808219,35972,3
+inventory.meter,42,AIS22PD03XXXXX,Petaling,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2022-10-18,2024-02-11,1.378082192,38244,3
+inventory.meter,43,AIS22ED00XXXXX,Sepang,40,Mechanical Meter - Brass Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Brass Meter 40mm,2022-10-10,2024-02-12,1.4,67608,3
+inventory.meter,44,AIS22FA00XXXXX,Petaling,50,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 4000 50mm,2022-05-18,2024-02-13,1.797260274,28393,3
+inventory.meter,45,AIS22PD04XXXXX,Klang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2023-03-03,2024-02-14,1.005479452,22002,3
+inventory.meter,46,AIS23PE00XXXXX,Petaling,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,VSD Automation Sdn. Bhd.,LXHG-15/S,2024-01-29,2024-02-15,0.095890411,26784,3
+inventory.meter,47,AIS22ED00XXXXX,Klang,40,Mechanical Meter - Brass Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Brass Meter 40mm,2023-05-15,2024-02-16,0.805479452,22224,3
+inventory.meter,48,SYA06XXXXX,Gombak,80,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO 75MM / 80MM METER,2017-12-12,2024-02-17,16.46575342,57692,3
+inventory.meter,49,AIS17PA02XXXXX,Hulu Selangor,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2017-12-04,2024-02-18,6.317808219,35773,3
+inventory.meter,50,AIS17CA00XXXXX,Hulu Selangor,20,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,"PSM METER 3/4"" METER",2019-06-18,2024-02-19,4.715068493,35069,3
+inventory.meter,51,AIS22PA00XXXXX,Kuala Lumpur,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2022-04-11,2024-02-20,1.898630137,47300,3
+inventory.meter,52,SYA13H00XXXXX,Hulu Selangor,100,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO 100 MM METER,2017-12-02,2024-02-21,9.317808219,96640,3
+inventory.meter,53,SYA11H00XXXXX,Kuala Lumpur,100,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO 100 MM METER,2017-12-18,2024-02-22,11.87123288,49410,3
+inventory.meter,54,AIS19PA03XXXXX,Petaling,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2019-12-13,2024-02-23,4.22739726,28718,3
+inventory.meter,55,AIS22HA00XXXXX,Klang,100,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 100mm,2023-08-22,2024-02-24,0.534246575,12056,3
+inventory.meter,56,AIS21HA00XXXXX,Petaling,100,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 100mm,2021-03-12,2024-02-25,2.980821918,53494,3
+inventory.meter,57,AIS21PA00XXXXX,Hulu Langat,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2021-03-06,2024-02-26,2.997260274,14141,3
+inventory.meter,58,949407XXXXX,Petaling,100,Mechanical Meter - Cast Iron & Piston Volumetric Type,George Kent Malaysia,"MASTER METER 2000 4"" METER",2017-12-15,2024-02-27,13.45205479,67723,3
+inventory.meter,59,AIS23PE01XXXXX,Gombak,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,VSD Automation Sdn. Bhd.,LXHG-15/S,2023-12-14,2024-02-28,0.221917808,6212,3
+inventory.meter,60,AIS20GA00XXXXX,Kuala Langat,80,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 80mm,2021-09-07,2024-02-29,2.490410959,29469,3
+inventory.meter,61,SYA11H00XXXXX,Petaling,100,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO 100 MM METER,2017-12-20,2024-03-01,12.35068493,57066,3
+inventory.meter,62,AIS21BA00XXXXX,Petaling,15,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 15mm,2021-06-04,2024-03-02,2.750684932,4740,3
+inventory.meter,63,AIS20PA03XXXXX,Gombak,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2020-11-20,2024-03-03,3.287671233,29372,3
+inventory.meter,64,02W0XXXXX,Hulu Langat,150,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,HELIX  (X 10),2021-08-05,2024-03-04,20.47123288,46590,3
+inventory.meter,65,SYA15E00XXXXX,Kuala Selangor,40,Mechanical Meter - Brass Body & Piston Volumetric Type,Ningbo Water Meter,LXH 40B 40mm,2017-12-01,2024-03-05,7.679452055,49369,3
+inventory.meter,66,SYA12H00XXXXX,Kuala Langat,100,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO 100 MM METER,2017-12-05,2024-03-06,10.66027397,15918,3
+inventory.meter,67,AIS23PF00XXXXX,Klang,15,Ultrasonic Flowmeter,KAMSTRUP,FLOWIQ2200- AMI KAMSTRUP FLOWMETER DN15,2023-07-21,2024-03-07,0.621917808,4882,3
+inventory.meter,68,92182XXXXX,Petaling,100,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Sensus,Meinecke 100mm,2017-12-15,2024-03-08,6.221917808,15898,3
+inventory.meter,69,AIS22PD01XXXXX,Hulu Langat,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2022-07-07,2024-03-09,1.660273973,42102,3
+inventory.meter,70,AIS20PA00XXXXX,Klang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2020-03-14,2024-03-10,3.975342466,29959,3
+inventory.meter,71,AIS20PA02XXXXX,Petaling,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2020-11-01,2024-03-11,3.339726027,12684,3
+inventory.meter,72,AIS22HA00XXXXX,Kuala Langat,100,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 100mm,2023-09-26,2024-03-12,0.438356164,60896,3
+inventory.meter,73,AIS20PA01XXXXX,Gombak,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2020-07-25,2024-03-13,3.610958904,5504,3
+inventory.meter,74,AIS21HA00XXXXX,Klang,100,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 100mm,2022-01-14,2024-03-14,2.136986301,91564,3
+inventory.meter,75,AIS23PD00XXXXX,Hulu Selangor,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2023-03-14,2024-03-15,0.975342466,13793,3
+inventory.meter,76,AIS21PD00XXXXX,Klang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2022-02-16,2024-03-16,2.046575342,39998,3
+inventory.meter,77,AIS23PD02XXXXX,Sepang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2023-08-22,2024-03-17,0.534246575,26403,3
+inventory.meter,78,AIS20PA03XXXXX,Klang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2020-11-21,2024-03-18,3.284931507,19074,3
+inventory.meter,79,SYA14P00XXXXX,Klang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Delta Perdana Sdn Bhd,DPM-15P 15mm,2017-12-15,2024-03-19,9.882191781,15794,3
+inventory.meter,80,RSYA0501XXXXX,Kuala Lumpur,15,Mechanical Meter - Brass Body & Piston Volumetric Type,Ningbo Water Meter,LXH 15B 15mm,2017-12-01,2024-03-20,9.679452055,39399,3
+inventory.meter,81,AIS23CE00XXXXX,Petaling,20,Mechanical Meter - Brass Body & Piston Volumetric Type,VSD Automation Sdn. Bhd.,Brass Meter 20mm,2024-01-04,2024-03-21,0.164383562,4458,3
+inventory.meter,82,AIS17BA00XXXXX,Petaling,15,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 15mm,2017-12-09,2024-03-22,6.794520548,27219,3
+inventory.meter,83,SYA15E00XXXXX,Kuala Lumpur,40,Mechanical Meter - Brass Body & Piston Volumetric Type,Ningbo Water Meter,LXH 40B 40mm,2017-12-06,2024-03-23,7.75890411,36102,3
+inventory.meter,84,SYA12H00XXXXX,Klang,100,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO 100 MM METER,2017-12-06,2024-03-24,10.74520548,7587,3
+inventory.meter,85,SYA 06XXXXX,Kuala Lumpur,100,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO 100 MM METER,2017-12-20,2024-03-25,17.34246575,51555,3
+inventory.meter,86,AIS20PA04XXXXX,Hulu Langat,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2021-01-28,2024-03-26,3.098630137,34061,3
+inventory.meter,87,AIS22FA00XXXXX,Petaling,50,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 4000 50mm,2023-12-28,2024-03-27,0.183561644,57809,3
+inventory.meter,88,AIS20FA00XXXXX,Hulu Langat,50,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 4000 50mm,2020-12-18,2024-03-28,3.210958904,55607,3
+inventory.meter,89,AIS22HA00XXXXX,Petaling,100,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 100mm,2023-04-11,2024-03-29,0.898630137,88618,3
+inventory.meter,90,AIS23PE00XXXXX,Sepang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,VSD Automation Sdn. Bhd.,LXHG-15/S,2023-05-23,2024-03-30,0.783561644,48925,3
+inventory.meter,91,SYA15H00XXXXX,Gombak,100,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO 100 MM METER,2017-12-20,2024-03-31,7.649315068,36098,3
+inventory.meter,92,AIS20CA00XXXXX,Klang,20,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 20mm,2022-09-21,2024-04-01,1.452054795,8216,3
+inventory.meter,93,AIS22PD02XXXXX,Hulu Selangor,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2023-01-31,2024-04-02,1.090410959,4311,3
+inventory.meter,94,AIS20CA00XXXXX,Gombak,20,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 20mm,2020-05-22,2024-04-03,3.78630137,54310,3
+inventory.meter,95,AIS18PA03XXXXX,Petaling,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2018-11-23,2024-04-04,5.282191781,25690,3
+inventory.meter,96,AIS17F00XXXXX,Hulu Selangor,50,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO  50MM METER,2017-12-04,2024-04-05,6.783561644,60625,3
+inventory.meter,97,AIS19EA00XXXXX,Klang,40,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 40mm,2020-12-02,2024-04-06,3.254794521,92518,3
+inventory.meter,98,SYA08H00XXXXX,Klang,100,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO 100 MM METER,2017-12-20,2024-04-07,6.208219178,41749,3
+inventory.meter,99,AIS22PA00XXXXX,Hulu Langat,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2022-04-16,2024-04-08,1.884931507,19486,3
+inventory.meter,100,AIS20PA00XXXXX,Kuala Lumpur,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2020-06-03,2024-04-09,3.753424658,15131,3
+inventory.meter,101,AIS22PD00XXXXX,Gombak,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2022-05-21,2024-04-10,1.789041096,42395,3
+inventory.meter,102,AIS22PD02XXXXX,Hulu Selangor,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2022-12-28,2024-04-11,1.183561644,49529,3
+inventory.meter,103,AIS17HA00XXXXX,Kuala Lumpur,100,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 100mm,2017-12-07,2024-04-12,6.287671233,99911,3
+inventory.meter,104,AIS22DD00XXXXX,Kuala Lumpur,25,Mechanical Meter - Brass Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Brass Meter 25mm,2023-03-09,2024-04-13,0.989041096,25015,3
+inventory.meter,105,AIS20GA00XXXXX,Petaling,80,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 80mm,2021-03-09,2024-04-14,2.989041096,74814,3
+inventory.meter,106,AIS20PA02XXXXX,Klang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2020-08-12,2024-04-15,3.561643836,25841,3
+inventory.meter,107,AIS22DD00XXXXX,Kuala Lumpur,25,Mechanical Meter - Brass Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Brass Meter 25mm,2022-08-25,2024-04-16,1.526027397,31322,3
+inventory.meter,108,AIS23PF00XXXXX,Klang,15,Ultrasonic Flowmeter,KAMSTRUP,FLOWIQ2200- AMI KAMSTRUP FLOWMETER DN15,2023-10-30,2024-04-17,0.345205479,44513,3
+inventory.meter,109,AIS22PA00XXXXX,Petaling,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2022-03-26,2024-04-18,1.942465753,19731,3
+inventory.meter,110,AIS23CE00XXXXX,Petaling,20,Mechanical Meter - Brass Body & Piston Volumetric Type,VSD Automation Sdn. Bhd.,Brass Meter 20mm,2023-07-27,2024-04-19,0.605479452,87644,3
+inventory.meter,111,AIS23BD00XXXXX,Kuala Lumpur,15,Mechanical Meter - Brass Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Brass Meter 15mm,2023-06-19,2024-04-20,0.709589041,28078,3
+inventory.meter,112,AIS22ED00XXXXX,Klang,40,Mechanical Meter - Brass Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Brass Meter 40mm,2023-07-13,2024-04-21,0.643835616,59261,3
+inventory.meter,113,AIS17DA00XXXXX,Sabak Bernam,25,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 25mm,2018-03-28,2024-04-22,5.939726027,26316,3
+inventory.meter,114,AIS22PD02XXXXX,Petaling,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2022-09-03,2024-04-23,1.501369863,20625,3
+inventory.meter,115,AIS22PD02XXXXX,Kuala Lumpur,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2022-09-09,2024-04-24,1.484931507,41724,3
+inventory.meter,116,AIS23PF00XXXXX,Klang,15,Ultrasonic Flowmeter,KAMSTRUP,FLOWIQ2200- AMI KAMSTRUP FLOWMETER DN15,2023-04-17,2024-04-25,0.882191781,10297,3
+inventory.meter,117,AIS17PA03XXXXX,Kuala Selangor,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2018-04-16,2024-04-26,5.887671233,2596,3
+inventory.meter,118,AIS18PA01XXXXX,Sepang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2018-07-14,2024-04-27,5.643835616,30376,3
+inventory.meter,119,SYA15F00XXXXX,Klang,50,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO  50MM METER,2017-12-20,2024-04-28,7.778082192,27255,3
+inventory.meter,120,AIS22PE00XXXXX,Gombak,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,VSD Automation Sdn. Bhd.,LXHG-15/S,2022-10-15,2024-04-29,1.38630137,2595,3
+inventory.meter,121,AIS22PA00XXXXX,Klang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2022-01-27,2024-04-30,2.101369863,12236,3
+inventory.meter,122,94945XXXXX,Klang,100,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Sensus,Meinecke 100mm,2017-12-22,2024-05-01,19.43287671,39314,3
+inventory.meter,123,AIS20PA02XXXXX,Gombak,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2020-09-19,2024-05-02,3.457534247,32553,3
+inventory.meter,124,AIS20EA00XXXXX,Petaling,40,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 40mm,2021-12-30,2024-05-03,2.178082192,80180,3
+inventory.meter,125,PS02XXXXX,Petaling,20,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,"PSM METER 3/4"" METER",2017-12-11,2024-05-04,6.232876712,30279,3
+inventory.meter,126,AIS18EMXXXXX,Gombak,80,Electromagnetic Flowmeter,ABB,"ABB AQUAMASTER 3 3"" METER (75MM / 80MM)",2020-11-13,2024-05-05,3.306849315,47070,3
+inventory.meter,127,AIS20CA00XXXXX,Petaling,20,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 20mm,2021-07-13,2024-05-06,2.643835616,78550,3
+inventory.meter,128,AIS23PE00XXXXX,Klang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,VSD Automation Sdn. Bhd.,LXHG-15/S,2023-07-11,2024-05-07,0.649315068,769,3
+inventory.meter,129,AIS23PD00XXXXX,Gombak,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2023-04-07,2024-05-08,0.909589041,28549,3
+inventory.meter,130,AIS21FA00XXXXX,Klang,50,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 4000 50mm,2021-10-05,2024-05-09,2.41369863,92550,3
+inventory.meter,131,AIS23PD01XXXXX,Klang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2023-04-19,2024-05-10,0.876712329,22097,3
+inventory.meter,132,SYA09H00XXXXX,Klang,100,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO 100 MM METER,2017-12-09,2024-05-11,14.14520548,40767,3
+inventory.meter,133,AIS19PA03XXXXX,Hulu Langat,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2019-12-13,2024-05-12,4.22739726,47777,3
+inventory.meter,134,AIS21PA02XXXXX,Klang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2021-09-06,2024-05-13,2.493150685,1231,3
+inventory.meter,135,AIS21PA01XXXXX,Klang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2021-05-29,2024-05-14,2.767123288,24549,3
+inventory.meter,136,AIS22FA00XXXXX,Gombak,50,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 4000 50mm,2023-01-31,2024-05-15,1.090410959,30824,3
+inventory.meter,137,SYA13H00XXXXX,Hulu Selangor,100,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO 100 MM METER,2017-12-04,2024-05-16,9.304109589,99557,3
+inventory.meter,138,92673XXXXX,Petaling,100,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Sensus,Meinecke 100mm,2019-07-17,2024-05-17,6.210958904,38898,3
+inventory.meter,139,AIS22PD04XXXXX,Gombak,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2022-12-16,2024-05-18,1.216438356,44618,3
+inventory.meter,140,AIS20PA03XXXXX,Hulu Selangor,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2020-11-29,2024-05-19,3.263013699,30953,3
+inventory.meter,141,94602XXXXX,Klang,100,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Sensus,Meinecke 100mm,2017-12-16,2024-05-20,17.14246575,24706,3
+inventory.meter,142,AIS20PA03XXXXX,Klang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2020-11-15,2024-05-21,3.301369863,16658,3
+inventory.meter,143,AIS22PD01XXXXX,Hulu Langat,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2022-08-24,2024-05-22,1.528767123,38088,3
+inventory.meter,144,PS02XXXXX,Petaling,20,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,"PSM METER 3/4"" METER",2017-12-11,2024-05-23,6.232876712,25100,3
+inventory.meter,145,AIS19DA00XXXXX,Klang,25,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 25mm,2019-02-15,2024-05-24,5.052054795,28641,3
+inventory.meter,146,AIS18JA00XXXXX,Petaling,150,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,"HELIX 4000 6"" METER ( 150 MM )",2019-02-19,2024-05-25,5.424657534,51913,3
+inventory.meter,147,AIS18PA02XXXXX,Petaling,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2018-10-04,2024-05-26,5.419178082,1107,3
+inventory.meter,148,AIS21PD01XXXXX,Hulu Langat,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2022-03-07,2024-05-27,1.994520548,45181,3
+inventory.meter,149,AIS17PA00XXXXX,Kuala Langat,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2017-12-01,2024-05-28,6.884931507,23596,3
+inventory.meter,150,AIS20PA02XXXXX,Klang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2020-10-13,2024-05-29,3.391780822,20019,3
+inventory.meter,151,AIS23PD00XXXXX,Klang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2024-01-04,2024-05-30,0.164383562,7031,3
+inventory.meter,152,AIS23PD00XXXXX,Klang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2023-07-21,2024-05-31,0.621917808,41016,3
+inventory.meter,153,AIS20PA01XXXXX,Gombak,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2020-07-04,2024-06-01,3.668493151,44991,3
+inventory.meter,154,AIS17H00XXXXX,Petaling,100,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO 100 MM METER,2017-12-20,2024-06-02,6.997260274,40234,3
+inventory.meter,155,AIS17HA00XXXXX,Petaling,100,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 100mm,2018-06-22,2024-06-03,5.704109589,6473,3
+inventory.meter,156,AIS23PE01XXXXX,Kuala Langat,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,VSD Automation Sdn. Bhd.,LXHG-15/S,2023-11-25,2024-06-04,0.273972603,30394,3
+inventory.meter,157,AIS20EA00XXXXX,Kuala Lumpur,40,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 40mm,2022-03-08,2024-06-05,1.991780822,45363,3
+inventory.meter,158,AIS23PE00XXXXX,Gombak,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,VSD Automation Sdn. Bhd.,LXHG-15/S,2023-08-11,2024-06-06,0.564383562,44453,3
+inventory.meter,159,AIS21PA03XXXXX,Kuala Selangor,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2022-02-06,2024-06-07,2.073972603,40278,3
+inventory.meter,160,AIS17GA00XXXXX,Gombak,80,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 80mm,2018-06-27,2024-06-08,5.690410959,23799,3
+inventory.meter,161,AIS22PE00XXXXX,Petaling,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,VSD Automation Sdn. Bhd.,LXHG-15/S,2022-06-16,2024-06-09,1.717808219,12362,3
+inventory.meter,162,AIS22FA00XXXXX,Kuala Lumpur,50,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 4000 50mm,2023-03-03,2024-06-10,1.005479452,58265,3
+inventory.meter,163,AIS22GA00XXXXX,Kuala Lumpur,80,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 80mm,2023-11-01,2024-06-11,0.339726027,13693,3
+inventory.meter,164,AIS22GA00XXXXX,Klang,80,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 80mm,2022-06-21,2024-06-12,1.704109589,33960,3
+inventory.meter,165,AIS16PB01XXXXX,Klang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Delta Perdana Sdn Bhd,DPM-15P 15mm,2017-12-19,2024-06-13,7.128767123,33635,3
+inventory.meter,166,AIS21PA01XXXXX,Kuala Lumpur,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2021-05-05,2024-06-14,2.832876712,7356,3
+inventory.meter,167,AIS20CA00XXXXX,Klang,20,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 20mm,2021-10-06,2024-06-15,2.410958904,90036,3
+inventory.meter,168,AIS20PA02XXXXX,Petaling,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2020-10-17,2024-06-16,3.380821918,39578,3
+inventory.meter,169,AIS18HA00XXXXX,Klang,100,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 100mm,2019-01-26,2024-06-17,5.106849315,94425,3
+inventory.meter,170,AIS23PD00XXXXX,Sepang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2023-04-17,2024-06-18,0.882191781,48975,3
+inventory.meter,171,AIS18PA04XXXXX,Petaling,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2019-02-24,2024-06-19,5.02739726,24390,3
+inventory.meter,172,AIS21FA00XXXXX,Kuala Selangor,50,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 4000 50mm,2021-11-18,2024-06-20,2.293150685,46199,3
+inventory.meter,173,SYA06XXXXX,Kuala Lumpur,100,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO 100 MM METER,2017-12-06,2024-06-21,10.09863014,49139,3
+inventory.meter,174,SYA14F00XXXXX,Kuala Lumpur,50,Mechanical Meter - Cast Iron Body & Woltmann Type - edit,Ningbo Water Meter,NB NINGBO  50MM METER,2017-12-11,2024-06-22,9.287671233,62996,3
+inventory.meter,175,AIS20DA00XXXXX,Klang,25,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 25mm,2022-02-13,2024-06-23,2.054794521,65186,3
+inventory.meter,176,AIS22CA00XXXXX,Kuala Lumpur,20,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 20mm,2022-09-26,2024-06-24,1.438356164,37599,3
+inventory.meter,177,AIS23PE01XXXXX,Kuala Lumpur,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,VSD Automation Sdn. Bhd.,LXHG-15/S,2023-12-14,2024-06-25,0.221917808,41293,3
+inventory.meter,178,AIS20CA00XXXXX,Gombak,20,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 20mm,2020-09-15,2024-06-26,3.468493151,60383,3
+inventory.meter,179,SYA15D00XXXXX,Hulu Selangor,25,Mechanical Meter - Brass Body & Piston Volumetric Type,Ningbo Water Meter,LXH 25B 25mm,2017-12-04,2024-06-27,7.723287671,7429,3
+inventory.meter,180,AIS17GA0XXXXX,Klang,80,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 80mm,2017-12-20,2024-06-28,6.769863014,82792,3
+inventory.meter,181,SYA14C00XXXXX,Petaling,20,Mechanical Meter - Brass Body & Piston Volumetric Type,Ningbo Water Meter,LXH 20B 20mm,2018-10-14,2024-06-29,5.391780822,23038,3
+inventory.meter,182,AIS22ED00XXXXX,Gombak,40,Mechanical Meter - Brass Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Brass Meter 40mm,2024-02-08,2024-06-30,0.068493151,92665,3
+inventory.meter,183,SYA16P01XXXXX,Klang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Delta Perdana Sdn Bhd,DPM-15P 15mm,2017-12-16,2024-07-01,6.219178082,33599,3
+inventory.meter,184,AIS23JG00XXXXX,Kuala Selangor,150,Mechanical Meter - Ductile Iron Body & Woltmann Type,Progressive Crest Sdn Bhd,Ductile Iron 150mm,2023-04-12,2024-07-02,0.895890411,84757,3
+inventory.meter,185,AIS23PD00XXXXX,Kuala Selangor,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2023-09-20,2024-07-03,0.454794521,48706,3
+inventory.meter,186,AIS23DD00XXXXX,Gombak,25,Mechanical Meter - Brass Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Brass Meter 25mm,2024-01-23,2024-07-04,0.112328767,36096,3
+inventory.meter,187,SYA14C00XXXXX,Kuala Lumpur,20,Mechanical Meter - Brass Body & Piston Volumetric Type,Ningbo Water Meter,LXH 20B 20mm,2018-08-04,2024-07-05,5.58630137,83328,3
+inventory.meter,188,AIS19BA00XXXXX,Hulu Langat,15,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 15mm,2019-12-20,2024-07-06,4.208219178,37669,3
+inventory.meter,189,AIS19PA02XXXXX,Petaling,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2019-07-09,2024-07-07,4.657534247,26517,3
+inventory.meter,190,AIS21PA01XXXXX,Petaling,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2021-04-17,2024-07-08,2.882191781,34564,3
+inventory.meter,191,AIS22PD01XXXXX,Kuala Selangor,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2022-11-20,2024-07-09,1.287671233,41530,3
+inventory.meter,192,AIS19EA00XXXXX,Kuala Lumpur,40,Mechanical Meter - Brass Body & Piston Volumetric Type,George Kent Malaysia,PSM Volumetric 40mm,2020-05-21,2024-07-10,3.789041096,23130,3
+inventory.meter,193,01W0XXXXX,Hulu Langat,150,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,HELIX  (X 10),2017-12-04,2024-07-11,21.17260274,5563,3
+inventory.meter,194,AIS17PB00XXXXX,Sabak Bernam,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Delta Perdana Sdn Bhd,DPM-15P 15mm,2017-12-19,2024-07-12,6.597260274,1596,3
+inventory.meter,195,AIS22PD03XXXXX,Kuala Lumpur,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2023-02-28,2024-07-13,1.01369863,20329,3
+inventory.meter,196,AIS21PE00XXXXX,Sepang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,VSD Automation Sdn. Bhd.,LXHG-15/S,2021-12-02,2024-07-14,2.254794521,34293,3
+inventory.meter,197,AIS22PD01XXXXX,Sepang,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Aqua Flo Sdn. Bhd.,Glass Fibre Grivory Meter 15mm,2022-07-28,2024-07-15,1.602739726,16779,3
+inventory.meter,198,SYA15P01XXXXX,Kuala Selangor,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,Delta Perdana Sdn Bhd,DPM-15P 15mm,2017-12-16,2024-07-16,8.37260274,16076,3
+inventory.meter,199,AIS19PA00XXXXX,Petaling,15,Mechanical Meter - Plastic Body & Piston Volumetric Type,George Kent Malaysia,KSM Volumetric 15mm,2019-03-18,2024-07-17,4.967123288,7016,3
+inventory.meter,200,AIS17FA00XXXXX,Petaling,50,Mechanical Meter - Ductile Iron Body & Woltmann Type,George Kent Malaysia,Helix 4000 50mm,2017-12-18,2024-07-18,6.21369863,47038,3

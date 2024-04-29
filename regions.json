@@ -1,0 +1,46 @@
+[
+  {
+    "pk": 1,
+    "region": "Petaling"
+  },
+  {
+    "pk": 2,
+    "region": "Gombak"
+  },
+  {
+    "pk": 3,
+    "region": "Hulu Langat"
+  },
+  {
+    "pk": 4,
+    "region": "Petaling"
+  },
+  {
+    "pk": 5,
+    "region": "Kuala Lumpur"
+  },
+  {
+    "pk": 6,
+    "region": "Klang"
+  },
+  {
+    "pk": 7,
+    "region": "Hulu Selangor"
+  },
+  {
+    "pk": 8,
+    "region": "Sepang"
+  },
+  {
+    "pk": 9,
+    "region": "Kuala Langat"
+  },
+  {
+    "pk": 10,
+    "region": "Kuala Selangor"
+  },
+  {
+    "pk": 11,
+    "region": "Sabak Bernam"
+  }
+]

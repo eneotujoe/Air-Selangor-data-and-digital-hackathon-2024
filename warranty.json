@@ -1,0 +1,102 @@
+[
+ {
+   "id": 1,
+   "Serial Number": "AIS19PA03XXXXX",
+   "Meter Size": 15,
+   "Manufactured Year": 2019,
+   "Received Date": "9/3/21",
+   "Physical Checked Date": "9/3/21",
+   "Defect": "4. LEAKING AT ANY PART OF METER BODY",
+   "Status": "CAN CLAIM"
+ },
+ {
+   "id": 2,
+   "Serial Number": "AIS19PA03XXXXX",
+   "Meter Size": 15,
+   "Manufactured Year": 2019,
+   "Received Date": "9/3/21",
+   "Physical Checked Date": "9/3/21",
+   "Defect": "3. LEAKING THROUGH INDICATING DEVICE & PULSE OUTPUT",
+   "Status": "CAN CLAIM"
+ },
+ {
+   "id": 3,
+   "Serial Number": "AIS19PA00XXXXX",
+   "Meter Size": 15,
+   "Manufactured Year": 2019,
+   "Received Date": "9/3/21",
+   "Physical Checked Date": "9/3/21",
+   "Defect": "9. METER NOT IN METER WARRANTY CATEGORY",
+   "Status": "CANNOT CLAIM"
+ },
+ {
+   "id": 4,
+   "Serial Number": "AIS19PA04XXXXX",
+   "Meter Size": 15,
+   "Manufactured Year": 2019,
+   "Received Date": "9/15/21",
+   "Physical Checked Date": "9/29/21",
+   "Defect": "8. METER STUCK",
+   "Status": "CAN CLAIM"
+ },
+ {
+   "id": 5,
+   "Serial Number": "AIS19PA01XXXXX",
+   "Meter Size": 15,
+   "Manufactured Year": 2019,
+   "Received Date": "9/15/21",
+   "Physical Checked Date": "9/29/21",
+   "Defect": "9. METER NOT IN METER WARRANTY CATEGORY",
+   "Status": "CANNOT CLAIM"
+ },
+ {
+   "id": 6,
+   "Serial Number": "AIS20PA03XXXXX",
+   "Meter Size": 15,
+   "Manufactured Year": 2020,
+   "Received Date": "9/15/21",
+   "Physical Checked Date": "9/29/21",
+   "Defect": "9. METER NOT IN METER WARRANTY CATEGORY",
+   "Status": "CANNOT CLAIM"
+ },
+ {
+   "id": 7,
+   "Serial Number": "AIS20PA02XXXXX",
+   "Meter Size": 15,
+   "Manufactured Year": 2020,
+   "Received Date": "9/15/21",
+   "Physical Checked Date": "9/29/21",
+   "Defect": "8. METER STUCK",
+   "Status": "CAN CLAIM"
+ },
+ {
+   "id": 8,
+   "Serial Number": "AIS21PA01XXXXX",
+   "Meter Size": 15,
+   "Manufactured Year": 2021,
+   "Received Date": "9/15/21",
+   "Physical Checked Date": "9/29/21",
+   "Defect": "9. METER NOT IN METER WARRANTY CATEGORY",
+   "Status": "CANNOT CLAIM"
+ },
+ {
+   "id": 9,
+   "Serial Number": "AIS21PA01XXXXX",
+   "Meter Size": 15,
+   "Manufactured Year": 2021,
+   "Received Date": "9/15/21",
+   "Physical Checked Date": "9/29/21",
+   "Defect": "8. METER STUCK",
+   "Status": "CAN CLAIM"
+ },
+ {
+   "id": 10,
+   "Serial Number": "AIS21PA01XXXXX",
+   "Meter Size": 15,
+   "Manufactured Year": 2021,
+   "Received Date": "9/15/21",
+   "Physical Checked Date": "9/29/21",
+   "Defect": "9. METER NOT IN METER WARRANTY CATEGORY",
+   "Status": "CANNOT CLAIM"
+ }
+]
